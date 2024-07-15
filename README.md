@@ -1,4 +1,4 @@
-# CharacterRecognition-app
+# CharacterRecognition
 # Recognition of Graphic Symbols on Android Platforms Using Low-Complexity Convolutional Neural Networks
 
 ## Description
