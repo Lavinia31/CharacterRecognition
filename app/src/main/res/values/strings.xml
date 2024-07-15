@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CharacterRecognition</string>
+    <string-array name="datasets">
+        <item>EMNIST</item>
+        <item>SVHN</item>
+    </string-array>
+</resources>
