@@ -27,7 +27,7 @@ This project represents my undergraduate thesis and focuses on the recognition o
 - **Development Environments**: Kaggle, Android Studio
 
 ## Results and Conclusions
-The developed and optimized models demonstrated variable performances depending on the dataset used. EfficientNet and MobileNet provided an accuracy of approximately 92% for the EMNIST dataset, while MobileNet was the most efficient for SVHN, with an accuracy of 94.63%. The models were converted to TFLite format and integrated into an Android application, which was successfully tested in real scenarios.
+The developed and optimized models demonstrated variable performances depending on the dataset used. EfficientNet and MobileNet provided an accuracy of approximately 92% for the EMNIST dataset, while MobileNet was the most efficient for SVHN, with an accuracy of 94.63%. The models were converted to TFLite format and integrated into an Android application(code found in master branch), which was successfully tested in real scenarios.
 
 ## Future Directions
 - Improving model accuracy through additional training and optimizations
